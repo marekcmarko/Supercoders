@@ -14,13 +14,16 @@ Line-height si väčšinou nastavím na body a ostatné prispôsobím.
 
 
 LAYOUT:
-= V responsive som ratal do 320 px. Ak to ma zmysel aj pre menej, nie je problem.
+- V responsive som ratal do 320 px. Ak to ma zmysel aj pre menej, nie je problem.
 
-= šípka pod deadpoolom by asi mala byť cez svg ale tie ešte neovládam.
+- šípka pod deadpoolom by asi mala byť cez svg ale tie ešte neovládam.
 
-= text-decoration v kartach som použil po precitani tohto článku https://css-tricks.com/styling-underlines-web/
+- text-decoration v kartach som použil po precitani tohto článku https://css-tricks.com/styling-underlines-web/
 
-= dlhšie som rozmýšlal a skúšal spraviť v responsive tie slide switche. Originál som to chcel dať nalavo cez position ale nehodí sa to na stranu...Tak som to spravil ako buttony (Sú tam iba základné štýly ale vedel by som to vypimpovať). Už je to ale dlhšia doba.
+- dlhšie som rozmýšlal a skúšal spraviť v responsive tie slide switche. Originál som to chcel dať nalavo cez position ale nehodí sa to na stranu...Tak som to spravil ako buttony (Sú tam iba základné štýly ale vedel by som to vypimpovať). Už je to ale dlhšia doba.
 
+Obrázky:
 
-= obrázky v kartách som nechal fixne, s ohladom na to že sa to tak robí v mnohych eshopoch - a toto mi príde ako produkty v eshope + logo vo footri je ná uváženie ale myslím že by malo ostať velké.
+- na logo som použil Art direction + Density switch - Viem že tam mám 2 krát rovnaký obrázok = ide len o princíp, že väčšinou som zamieňal logo ak neboli iné obrazky na webe
+- resolution switching v tejto template podla mňa nemá význam
+- produktové obrázky (v JS TABS) majú málo kB a malé rozlíšenie, takže tu som tiež vynechal tieto techniky spracovania obrázkov. Nechal som ich fixne, s ohladom na to že sa to tak robí v mnohych eshopoch - a toto mi príde ako produkty v eshope + logo vo footri je ná uváženie ale myslím že aj to by malo ostať velké. 
